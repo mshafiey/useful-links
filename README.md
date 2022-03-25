@@ -19,3 +19,6 @@ Related Medium Story
 
 https://github.com/ozkayas/auth_manager
 
+Flutter Template App Based on GetX with Login, Theme Management, I18n  (https://morioh.com/p/af6db2c89961)
+
+https://morioh.com/p/af6db2c89961
