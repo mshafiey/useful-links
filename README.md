@@ -26,3 +26,8 @@ https://morioh.com/p/af6db2c89961
 
 Understanding the Flutter GetX Ecosystem for State Management 
 https://www.section.io/engineering-education/flutter-getx-ecosystem-for-state-management/
+
+
+Using GetX (Get) for State Management in Flutter
+
+https://www.kindacode.com/article/using-getx-get-for-state-management-in-flutter/
